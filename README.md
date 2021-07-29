@@ -11,7 +11,7 @@
 ## Stack
 
 - [whatsapp-web.js](https://docs.wwebjs.dev/)
-- [Typescript](https://www.typescriptlang.org/) - Superset to enforce Typing
+- Typescript
 - NodeJS +16
 - Express / Helmet / CORS
 
